@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @kode-katya
-- 👀 I’m interested in coding and making connections 
-- 🌱 I’m currently learning c language
+- 👋 Hey, my name is Katerina
+- 👀 I’m interested in web development & working with a variety of people
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: Git Hub
-- ⚡ Fun fact: I like to read, cook, and learn languages. 
+- 📫 How to reach me: will update later on
+- ⚡ Fun fact: My favorite color is the color you get whenever you wash red cabbage
 
 <!---
 kode-katya/kode-katya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
